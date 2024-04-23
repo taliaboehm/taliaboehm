@@ -1,13 +1,13 @@
 <h2> 👋  Hi, I’m @taliaboehm</h2>
 
 <h4>👀 I’m interested in....</h4>
-  Designing & developing <strong>usable</strong>, <strong>accessible</strong> (and beautiful) software to promote inclusivity.<br> 
+  All things Data Science & Design! I'm passionate about developing ML/AI models that prevent bias and discrimination against underrepresented groups of people. 
 
 <h4>🌱 I’m currently studying...</h4>
   Information Science at Cornell University (B.S.)
 
-<h4>💞️ I’m looking for ... </h4>
-  An internship in the tech industry related to UX design and/ or software development
+<h4>👩🏼‍💻 I’m working ...</h4>
+  as a <strong> Data Scientist</strong> for <strong>IBM</strong> in New York City. 
 
 <h4>📫 How to reach me ...</h4>
 
